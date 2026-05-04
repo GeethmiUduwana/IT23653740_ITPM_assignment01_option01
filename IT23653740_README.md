@@ -88,9 +88,9 @@ py IT23653740_test_automation.py --excel "IT23653740_Assignment 1 - Test cases.x
 
 ## Final Status
 
-✔ Automation script successfully implemented
-✔ Excel-based validation completed
-✔ Wide test coverage with edge cases
-✔ Suitable for QA internship portfolio
+ Automation script successfully implemented
+ Excel-based validation completed
+ Wide test coverage with edge cases
+ 
 
 ---
