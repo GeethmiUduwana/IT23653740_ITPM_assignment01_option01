@@ -1,8 +1,18 @@
 # IT3040 Assignment 1 – QA Automation
 
+https://github.com/GeethmiUduwana/IT23653740_ITPM_assignment01_option01.git
+
 ## Project Title
 
 Automated Testing for Singlish to Sinhala Transliteration System
+
+---
+## Student Information
+
+* Name: UDUWANA G.S
+* Student ID: IT23653740
+* Module: IT3040
+* Assignment: Assignment 1 (Option 1)
 
 ---
 
@@ -77,14 +87,7 @@ py IT23653740_test_automation.py --excel "IT23653740_Assignment 1 - Test cases.x
 
 ---
 
-## Student Information
 
-* Name: UDUWANA G.S
-* Student ID: IT23653740
-* Module: IT3040
-* Assignment: Assignment 1 (Option 1)
-
----
 
 ## Final Status
 
